@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+mlruns/
+mlflow.db
+.ipynb_checkpoints/
+churn-env/
+.env
